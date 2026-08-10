@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mangesh9326/Mangesh9326/main/assets/name.svg" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?weight=500&size=19&duration=4000&color=30FF49&vCenter=true&width=450&lines=Full-Stack+Developer+%7C+DevOps+Engineer" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>High-performance full-stack web applications using React, Node.js, and modern APIs<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, SaaS products, and innovative web platforms<br><br>🤝 I’m looking for help with:<br>Advanced system design, cloud scaling, and performance optimization<br><br>🌱 I’m currently learning:<br>Next.js, TypeScript, Docker, and Cloud Architecture<br><br>💬 Ask me about:<br>JavaScript, APIs, Databases, Frontend UI, Backend Logic, or Full-Stack architecture<br><br>⚡ Fun fact:<br>I can spend hours debugging code just to save 2 lines 😄
 
