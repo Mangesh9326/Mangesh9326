@@ -8,7 +8,7 @@
 # Hey! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
 I build scalable web and mobile applications with a strong focus on performance, user experience, and automation. From microservices architecture to modern frontend development and CI/CD pipelines, I write clean, maintainable code that’s built for real-world production.
 <br><br>
-### Things I code with
+
 ### Things I code with
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,10 +45,16 @@ I build scalable web and mobile applications with a strong focus on performance,
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+<br>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mangeshbandre2307@gmail.com) 
+### 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mangesh9326&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
