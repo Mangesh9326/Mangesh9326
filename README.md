@@ -1,8 +1,8 @@
 <p  align="center">
-  <img src="https://themangesh.in/name.svg" width="900" />
+  <img src="https://themangesh.in/github/name.svg" width="900" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=500&size=19&duration=4000&color=30FF49&vCenter=true&width=450&lines=Full-Stack+Developer+%7C+DevOps+Engineer" />
+  <img src="https://themangesh.in/github/role.svg" />
 </p>
 
 # Hey! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
