@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/Mangesh9326/Mangesh9326/main/assets/name.svg" width="900" />
+  <img src="https://themangesh.in/name.svg" width="900" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?weight=500&size=19&duration=4000&color=30FF49&vCenter=true&width=450&lines=Full-Stack+Developer+%7C+DevOps+Engineer" />
